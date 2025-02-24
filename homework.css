@@ -1,0 +1,186 @@
+
+body {
+	font-family: "微软雅黑";
+	font-size: 16px;
+	color: #64370e;
+}
+.page {
+	width: 1000px;
+	margin-top: 10px;
+	margin: 0;
+}
+
+/*导航栏 */
+.w3-container:after,.w3-container:before,.w3-panel:after,.w3-panel:before,.w3-row:after,.w3-row:before,.w3-row-padding:after,.w3-row-padding:before,
+.w3-cell-row:before,.w3-cell-row:after,.w3-clear:after,.w3-clear:before,.w3-bar:before,.w3-bar:after{content:"";display:table;clear:both}
+.w3-third{float:left;width:100%}
+.w3-col.s3{width:24.99999%}
+.w3-block{display:block;width:100%;}
+.w3-third{float:left;width:100%;width:33.33333%;padding:0 8px}
+.w3-light-grey{color:#000!important;background-color:#da957d!important}
+.w3-hover-light-gray:hover{color:#7c5024}
+
+
+.w3-button{display:inline-block;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap}
+
+
+/*背景图+文字*/
+.about {
+	background: url(image/banner.png) no-repeat;
+	background-size: 100%;
+	height:540px;
+    margin-top:40px;
+	margin-bottom: 40px;
+	
+}
+
+.coffee
+{   margin-left:70px;
+	text-shadow: 2px 8px 0px rgb(164, 84, 68);
+	padding-top:10px;
+    font-size:148px;
+	font-family:"Alkatra";
+	color: #e8b263;
+}
+
+.text {
+	font-family: "Hannotate SC";
+	font-size: 25px;
+	color: #fff6e3;
+	width: 600px;
+	height:120px;
+	margin-left:85px;
+}
+
+.more {
+	font-size:25px;
+	margin-top:60px;
+	font-family:"Hanzipen SC";
+}
+
+.news {
+	margin-top: 30px;
+	width: 1165px;
+	clear: both;
+}
+.news .list .title {
+	background: #754314;
+	width: 690px;
+	padding-top: 10px;
+	padding-left:0px;
+   
+}
+.news .pic {
+	width: 100px;
+
+	float: left;
+	margin-left: 10px;
+}
+.news .list {
+	
+	float: right;
+	list-style: none;
+	width: 500px;
+	margin-right:10px;
+	margin-left:10px;
+    font-family: "Hanzipen SC";
+	
+}
+.news .list .title h1 {
+	background:#754314;
+	font-family: "Hanzipen SC";
+	text-align:center;
+	font-size: 30px;
+	padding-right:10px;
+	height: 60px;
+	padding-top:7px;
+	color: #fff;
+	width: 250px;
+	margin: 0 auto;
+}
+.news .list_con {
+    font-size: 25px;
+	padding-top:10px;
+	line-height:1.8em;
+	
+
+}
+.news .list_con ul li {
+	list-style: none;
+	width: 900px;
+	text-align:left;
+	margin: 5px 0px;
+	border-bottom: 1px dashed #ccc;width:600px;
+	
+}
+.news .list_con ul li a {
+	color: #a07159;
+	text-decoration: none;
+	padding-top: 10px;
+}
+.news .list_con ul li a:hover {
+	color: #64370e;
+}
+
+.bottom {
+	background: #64370e;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	color: #fff;
+	clear: both;
+    margin-bottom:1px;
+	margin-right: 10px;
+	margin-left: 10px;
+   
+}
+
+ /*结尾输入框*/
+.w3-padding-16{padding-top:1px;padding-bottom:16px;margin-left:90px;margin-right:90px;}
+.w3-panel{padding:0.01em 16px}.w3-panel{margin-top:16px;margin-left: 90px;}
+.w3-large{font-size:18px}
+.w3-input{margin-left:0px;margin-right:90px;display:block;border:none;border-bottom:1px solid #ccc;width:100%}
+.w3-padding-16-{margin-left: 90px;margin-right: 90px;}
+.button,[type=button],[type=reset],[type=submit]{-webkit-appearance:button}
+.w3-btn,.w3-button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap}
+
+
+.w3-section,.w3-code{margin-top:16px;margin-bottom:16px}
+/*contact标签*/
+.w3-container-1{margin-left:10px;font-size: 23px;}
+.g-contact{margin-left:18px;}
+/*棕色文字内容*/
+.w3-content{padding-top:1px;text-align:justify;font-size:20px;margin-left:10px;margin-right:10px;max-width:1840px;}
+/*蓝色文字内容*/
+.w3-text-blue-grey,.w3-hover-text-blue-grey:hover,.w3-text-blue-gray,.w3-hover-text-blue-gray:hover{margin-left:10px;color:#607d8b}
+
+
+/*三张卡片-按钮*/
+.w3-button-2{margin-bottom: 10px;border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap}
+.w3-button-2:hover{color:#000!important;background-color:#9e6645!important}
+/*about-图片*/
+.w3-row-padding-3{padding-right:10px;padding-top:710px;padding-bottom:450px;margin-left:20px;}
+.w3-image{padding-top:30px;height:520px}
+.w3-image:hover{opacity:70%;}
+.about-title{padding-top:20px;}
+.g-text{width:96%;text-align:justify;}
+
+/*who we are 我们是谁*/
+.w3-row-padding-4{padding-top:150px;padding-bottom:4px;}
+.w3-card-4,.w3-hover-shadow:hover{box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19)}
+.w3-center{margin-bottom:50px}
+
+/*what we offer 我们提供什么*/
+.g-row-paddng{padding:0 80px}
+.g-padding-64{padding-top:130px;margin-left:10px;margin-right:10px}
+
+/*bg-detail按钮*/
+.w3-padding-large{margin-left:80px;}
+.w3-white,.w3-hover-white:hover{color:#000;background-color:#fff}
+.w3-opacity,.w3-hover-opacity:hover{opacity:0.60}
+.w3-opacity-off,.w3-hover-opacity-off:hover{opacity:1}
+.w3-large-1{font-size:18px}
+
+
+
+.g-pic{padding-bottom: 10px;}
